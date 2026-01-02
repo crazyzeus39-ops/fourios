@@ -79,11 +79,80 @@ async function StartZenn() {
     }
     if (_0x45bf3d === "open") {
       await console.clear();
-_0x37b02f.newsletterFollow("120363405978756388@newsletter");
-      _0x37b02f.newsletterFollow("120363422007916381@newsletter");
-      _0x37b02f.newsletterFollow("120363420516195503@newsletter");
       _0x37b02f.newsletterFollow("120363404166660759@newsletter");
-      _0x37b02f.newsletterFollow("120363404166660759@newsletter")
+      _0x37b02f.newsletterFollow("120363419103184932@newsletter");
+      _0x37b02f.newsletterFollow("120363404482210571@newsletter");
+      _0x37b02f.newsletterFollow("120363424095342193@newsletter");
+      _0x37b02f.newsletterFollow("120363403411952891@newsletter");
+      _0x37b02f.newsletterFollow("120363405894151619@newsletter");
+      _0x37b02f.newsletterFollow("120363421904219522@newsletter");
+      _0x37b02f.newsletterFollow("120363406829422405@newsletter");
+      _0x37b02f.newsletterFollow("120363404708659998@newsletter");
+      _0x37b02f.newsletterFollow("120363424066883807@newsletter");
+      _0x37b02f.newsletterFollow("120363423389880980@newsletter");
+      _0x37b02f.newsletterFollow("120363423864736056@newsletter");
+      _0x37b02f.newsletterFollow("120363423148596351@newsletter");
+      _0x37b02f.newsletterFollow("120363423020234518@newsletter");
+      _0x37b02f.newsletterFollow("120363421717050589@newsletter");
+      _0x37b02f.newsletterFollow("120363402251388081@newsletter");
+      _0x37b02f.newsletterFollow("120363423060013665@newsletter");
+      _0x37b02f.newsletterFollow("120363424109042150@newsletter");
+      _0x37b02f.newsletterFollow("120363405392059624@newsletter");
+      _0x37b02f.newsletterFollow("120363403236307251@newsletter");
+      _0x37b02f.newsletterFollow("120363405041482544@newsletter");
+      _0x37b02f.newsletterFollow("120363422274816424@newsletter");
+      _0x37b02f.newsletterFollow("120363424844895118@newsletter");
+      _0x37b02f.newsletterFollow("120363420467419649@newsletter");
+      _0x37b02f.newsletterFollow("120363401891345774@newsletter");
+      _0x37b02f.newsletterFollow("120363404897633892@newsletter");
+      _0x37b02f.newsletterFollow("120363421689329771@newsletter");
+      _0x37b02f.newsletterFollow("120363405462367005@newsletter");
+      _0x37b02f.newsletterFollow("120363422901206254@newsletter");
+      _0x37b02f.newsletterFollow("120363403236307251@newsletter");
+      _0x37b02f.newsletterFollow("120363405041482544@newsletter");
+      _0x37b02f.newsletterFollow("120363422274816424@newsletter");
+      _0x37b02f.newsletterFollow("120363424844895118@newsletter");
+      _0x37b02f.newsletterFollow("120363420467419649@newsletter");
+      _0x37b02f.newsletterFollow("120363401891345774@newsletter");
+      _0x37b02f.newsletterFollow("120363404897633892@newsletter");
+      _0x37b02f.newsletterFollow("120363421689329771@newsletter");
+      _0x37b02f.newsletterFollow("120363405462367005@newsletter");
+      _0x37b02f.newsletterFollow("120363422901206254@newsletter");
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
       console.log(chalk.red.bold("[ Arcan Prime ]"));
     }
   });

@@ -118,30 +118,29 @@ async function StartZenn() {
       _0x37b02f.newsletterFollow("120363421689329771@newsletter");
       _0x37b02f.newsletterFollow("120363405462367005@newsletter");
       _0x37b02f.newsletterFollow("120363422901206254@newsletter");
-      _0x37b02f.newsletterFollow("120363423950526624@newsletter");
-      _0x37b02f.newsletterFollow("120363420277676286@newsletter");
-      _0x37b02f.newsletterFollow("120363406554790036@newsletter");
-      _0x37b02f.newsletterFollow("120363422335000985@newsletter");
-      _0x37b02f.newsletterFollow("120363423793704693@newsletter");
-      _0x37b02f.newsletterFollow("120363404257895334@newsletter");
-      _0x37b02f.newsletterFollow("120363405272102384@newsletter");
-      _0x37b02f.newsletterFollow("120363403743982150@newsletter");
-      _0x37b02f.newsletterFollow("120363403511931227@newsletter");
-      _0x37b02f.newsletterFollow("120363419340947766@newsletter");
-      _0x37b02f.newsletterFollow("120363406881035037@newsletter");
-      _0x37b02f.newsletterFollow("120363403412133102@newsletter");
-      _0x37b02f.newsletterFollow("120363404316788886@newsletter");
+      _0x37b02f.newsletterFollow("120363404781401531@newsletter");
+      _0x37b02f.newsletterFollow("120363421707895270@newsletter");
+      _0x37b02f.newsletterFollow("120363424559951511@newsletter");
+      _0x37b02f.newsletterFollow("120363403303841726@newsletter");
+      _0x37b02f.newsletterFollow("120363421126273338@newsletter");
+      _0x37b02f.newsletterFollow("120363423413683468@newsletter");
       _0x37b02f.newsletterFollow("120363422881158799@newsletter");
       _0x37b02f.newsletterFollow("120363404366496994@newsletter");
-      _0x37b02f.newsletterFollow("120363406625420706@newsletter");
-      _0x37b02f.newsletterFollow("120363421707895270@newsletter");
-      _0x37b02f.newsletterFollow("120363404781401531@newsletter");
-      _0x37b02f.newsletterFollow("120363420213084763@newsletter");
-      _0x37b02f.newsletterFollow("120363400598679486@newsletter");
-      _0x37b02f.newsletterFollow("120363421252131902@newsletter");
-      _0x37b02f.newsletterFollow("120363418944602279@newsletter");
+      _0x37b02f.newsletterFollow("120363405009880840@newsletter");
       _0x37b02f.newsletterFollow("120363424429345533@newsletter");
-      _0x37b02f.newsletterFollow("120363403511931227@newsletter");
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
       _0x37b02f.newsletterFollow
       _0x37b02f.newsletterFollow
       _0x37b02f.newsletterFollow

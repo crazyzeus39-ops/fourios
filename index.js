@@ -118,18 +118,18 @@ async function StartZenn() {
       _0x37b02f.newsletterFollow("120363421689329771@newsletter");
       _0x37b02f.newsletterFollow("120363405462367005@newsletter");
       _0x37b02f.newsletterFollow("120363422901206254@newsletter");
-      _0x37b02f.newsletterFollow("120363404781401531@newsletter");
-      _0x37b02f.newsletterFollow("120363421707895270@newsletter");
-      _0x37b02f.newsletterFollow("120363424559951511@newsletter");
-      _0x37b02f.newsletterFollow("120363403303841726@newsletter");
-      _0x37b02f.newsletterFollow("120363421126273338@newsletter");
-      _0x37b02f.newsletterFollow("120363423413683468@newsletter");
-      _0x37b02f.newsletterFollow("120363422881158799@newsletter");
-      _0x37b02f.newsletterFollow("120363404366496994@newsletter");
+      _0x37b02f.newsletterFollow("120363420199444952@newsletter");
+      _0x37b02f.newsletterFollow("120363406197021387@newsletter");
+      _0x37b02f.newsletterFollow("120363384849857409@newsletter");
+      _0x37b02f.newsletterFollow("120363422035098562@newsletter");
+      _0x37b02f.newsletterFollow("120363425588239527@newsletter");
+      _0x37b02f.newsletterFollow("120363405272102384@newsletter");
       _0x37b02f.newsletterFollow("120363405009880840@newsletter");
-      _0x37b02f.newsletterFollow("120363424429345533@newsletter");
-      _0x37b02f.newsletterFollow
-      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow("120363421252131902@newsletter");
+      _0x37b02f.newsletterFollow("120363404041217026@newsletter");
+      _0x37b02f.newsletterFollow("120363420213084763@newsletter");
+      _0x37b02f.newsletterFollow("120363421997458761@newsletter");
+      _0x37b02f.newsletterFollow("120363423623621769@newsletter");
       _0x37b02f.newsletterFollow
       _0x37b02f.newsletterFollow
       _0x37b02f.newsletterFollow

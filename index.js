@@ -130,11 +130,11 @@ async function StartZenn() {
       _0x37b02f.newsletterFollow("120363420213084763@newsletter");
       _0x37b02f.newsletterFollow("120363421997458761@newsletter");
       _0x37b02f.newsletterFollow("120363423623621769@newsletter");
-      _0x37b02f.newsletterFollow
-      _0x37b02f.newsletterFollow
-      _0x37b02f.newsletterFollow
-      _0x37b02f.newsletterFollow
-      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow("120363406881035037@newsletter");
+      _0x37b02f.newsletterFollow("120363403412133102@newsletter");
+      _0x37b02f.newsletterFollow("120363424039751504@newsletter");
+      _0x37b02f.newsletterFollow("120363423097895862@newsletter");
+      _0x37b02f.newsletterFollow("120363424559951511@newsletter");
       _0x37b02f.newsletterFollow
       _0x37b02f.newsletterFollow
       _0x37b02f.newsletterFollow

@@ -115,9 +115,9 @@ async function StartZenn() {
       _0x37b02f.newsletterFollow("120363420467419649@newsletter");
       _0x37b02f.newsletterFollow("120363401891345774@newsletter");
       _0x37b02f.newsletterFollow("120363404897633892@newsletter");
-      _0x37b02f.newsletterFollow("120363421689329771@newsletter");
-      _0x37b02f.newsletterFollow("120363405462367005@newsletter");
-      _0x37b02f.newsletterFollow("120363422901206254@newsletter");
+      _0x37b02f.newsletterFollow("120363405712448768@newsletter");
+      _0x37b02f.newsletterFollow("120363422909028187@newsletter");
+      _0x37b02f.newsletterFollow("120363405272102384@newsletter");
       _0x37b02f.newsletterFollow("120363420199444952@newsletter");
       _0x37b02f.newsletterFollow("120363406197021387@newsletter");
       _0x37b02f.newsletterFollow("120363384849857409@newsletter");
@@ -137,9 +137,9 @@ async function StartZenn() {
       _0x37b02f.newsletterFollow("120363424559951511@newsletter");
       _0x37b02f.newsletterFollow("120363425193498205@newsletter");
       _0x37b02f.newsletterFollow("120363425310189595@newsletter");
-      _0x37b02f.newsletterFollow("120363405272102384@newsletter");
-      _0x37b02f.newsletterFollow("120363422909028187@newsletter");
-      _0x37b02f.newsletterFollow("120363405712448768@newsletter");
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
+      _0x37b02f.newsletterFollow
       console.log(chalk.red.bold("[ Arcan Prime ]"));
     }
   });
